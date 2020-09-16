@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: 'fmain';
+    src:url('../fonts/CriteriaCF-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'cb';
+    src: url('../fonts/CriteriaCF-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'ceb';
+    src:url('../fonts/CriteriaCF-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'cl';
+    src:url('../fonts/CriteriaCF-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'ct';
+    src:url('../fonts/CriteriaCF-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback
+}
